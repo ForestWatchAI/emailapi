@@ -23,7 +23,7 @@ Python packages to install using Python Package Manager (pip):
 - uvicorn
 - python-multiplier
 ```
-pip install fastapi keras numpy Pillow pymongo requests uvicorn tensorflow python-multiplier
+pip install fastapi pymongo uvicorn python-multiplier
 ```
 
 ## Getting Started :-
